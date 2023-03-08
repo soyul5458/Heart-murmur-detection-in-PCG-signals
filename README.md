@@ -2,6 +2,10 @@
 
 ## Paper: Heart murmur detection in PCG signals using ReLCNN
 
+
+## Heart murmurs description
+![image](https://user-images.githubusercontent.com/54921677/176380207-bd95a800-d6c6-4906-a65c-7bafdc66758b.png)
+
 ## 파일 설명
 * hp_1_1.py: s1s2 + murmur 피처 적용
 * hp_1_2.py: s1s2 피처 적용
